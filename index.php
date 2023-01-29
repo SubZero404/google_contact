@@ -1,0 +1,1 @@
+<?phpinclude_once "./templates/top_section.php";include_once "./templates/contacts.php";include_once "./templates/bottom_section.php";global $sub_url;?><script src="<?php echo $sub_url['js_url'] ?>contacts.js"></script>

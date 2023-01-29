@@ -1,0 +1,1 @@
+<script src="<?php echo $sub_url['node_modules'] ?>bootstrap/dist/js/bootstrap.bundle.min.js"></script><script src="node_modules/jquery/dist/jquery.js"></script><script src="<?php echo $sub_url['js_url'] ?>script.js"></script>
